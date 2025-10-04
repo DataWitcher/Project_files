@@ -1,4 +1,5 @@
 **Market Intelligence Dashboard - Global Steel Industry**
+
 This project analyzes the global steel industry using publicly available data from the **World Steel Association** and industry research reports.  
 It demonstrates market intelligence skills, data cleaning, and dashboard creation for business insights.  
 
